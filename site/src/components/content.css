@@ -1,0 +1,10 @@
+.Content{
+    color: #fff;
+    display: flex;
+    flex-grow: 1;
+    height: 100%;
+    padding: 1rem;
+    padding-top: 5rem;
+    margin: 0;
+}
+

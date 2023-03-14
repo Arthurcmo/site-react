@@ -1,3 +1,12 @@
+body {
+    background-image: url('../cityskyline.jpg');
+    background-size: cover;
+    margin: 0;
+  }
+
+
 .App {
-    font-size: 20px;
+    display: flex;
+    height: 100vh;
+    font-family: Arial, Helvetica, sans-serif;
 }
